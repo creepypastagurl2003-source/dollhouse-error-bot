@@ -1,0 +1,331 @@
+{
+  "freddy fazbear": {
+    "name": "Freddy Fazbear",
+    "game": "Five Nights at Freddy's 1",
+    "description": "The main mascot of Freddy Fazbear's Pizza. A brown bear animatronic wearing a top hat and bow tie.",
+    "behavior": "Moves slowly but becomes more active as the nights progress. Watches from the show stage and sneaks through the halls. His laugh signals he is near.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/b5/Freddy_Fazbear_Render.png"
+  },
+  "bonnie": {
+    "name": "Bonnie the Bunny",
+    "game": "Five Nights at Freddy's 1",
+    "description": "A purple/blue rabbit animatronic who plays guitar on stage. One of the most active animatronics on Night 1.",
+    "behavior": "Very aggressive from the start. Approaches from the left side and can appear in the doorway with little warning.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/35/Bonnie_Jumpscare.gif"
+  },
+  "chica": {
+    "name": "Chica the Chicken",
+    "game": "Five Nights at Freddy's 1",
+    "description": "A yellow chicken animatronic who carries a cupcake named Mr. Cupcake. She approaches from the right side.",
+    "behavior": "Active from early nights. She goes through the kitchen before approaching the right door. Her sounds in the kitchen are a warning.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/1/10/ClassicChica_Infobox.png"
+  },
+  "foxy": {
+    "name": "Foxy the Pirate",
+    "game": "Five Nights at Freddy's 1",
+    "description": "A damaged red fox animatronic who hides behind the curtain in Pirate Cove. He sprints down the left hallway.",
+    "behavior": "Must be monitored via camera. If ignored too long he dashes to the office. Closing the door stops him — but wastes power.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/a/a2/ClassicFoxy_Infobox.png"
+  },
+  "golden freddy": {
+    "name": "Golden Freddy",
+    "game": "Five Nights at Freddy's 1",
+    "description": "A mysterious golden version of Freddy. Rarely seen — appears as a hallucination in the office.",
+    "behavior": "Staring at him causes the game to crash. Looking away with the monitor makes him vanish. His origins remain unknown.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/99/YellowBear.png"
+  },
+  "toy freddy": {
+    "name": "Toy Freddy",
+    "game": "Five Nights at Freddy's 2",
+    "description": "An updated version of Freddy with rosy cheeks and a wide smile. Designed to appeal to children.",
+    "behavior": "Becomes active on later nights. Follows the standard vents path and must be warded off with the Freddy mask.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/2/21/Toy_Freddy_OfficialRender.png"
+  },
+  "toy bonnie": {
+    "name": "Toy Bonnie",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A redesigned Bonnie with a sleek blue appearance, green eyes, and a cheery smile.",
+    "behavior": "One of the most active animatronics from Night 1. He crawls through the vents and appears in the right air vent.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/d/d1/Toy_Bonnie_OfficialRender.png"
+  },
+  "toy chica": {
+    "name": "Toy Chica",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A redesigned Chica with a more human-like appearance. Her beak detaches as she becomes more aggressive.",
+    "behavior": "Approaches through the left vent. Her beak disappearing on the stage camera indicates she's on the move.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/7/77/Toy_Chica_OfficialRender.png"
+  },
+  "mangle": {
+    "name": "Mangle",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A heavily damaged Foxy animatronic with a tangled, disassembled appearance. Gender ambiguous.",
+    "behavior": "Crawls through the ceiling vents. Her radio static sound signals she is in the office — check the ceiling.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/9d/FNaF_AR_Mangle_Official_Render.png"
+  },
+  "balloon boy": {
+    "name": "Balloon Boy",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A small human-like animatronic holding a balloon and sign. Considered the most annoying animatronic.",
+    "behavior": "Enters through the left vent and disables your flashlight if he reaches the office. Cannot jumpscare you but enables others.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/c/cf/Balloon_Boy_Render.png"
+  },
+  "the puppet": {
+    "name": "The Puppet",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A tall marionette animatronic with a white face and black body. Contained in the Prize Corner music box.",
+    "behavior": "Must be kept in the box by winding the music box via the Prize Corner camera. If the music stops, it's too late.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/8/89/ThePuppetFullBody.png"
+  },
+  "withered freddy": {
+    "name": "Withered Freddy",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A deteriorated older model of Freddy with a broken, exposed endoskeleton. Kept in the Parts & Service room.",
+    "behavior": "Becomes active from Night 2. Must be warded off with the Freddy Fazbear mask when he appears in the hallway.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/1/12/Withered_Freddy_Full_Body.png"
+  },
+  "withered bonnie": {
+    "name": "Withered Bonnie",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A heavily damaged older Bonnie with his face completely missing, revealing the endoskeleton beneath.",
+    "behavior": "One of the most aggressive withered animatronics. Appears in the left air vent and requires quick mask use.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/f8/Withered_Bonnie_Full_Body.png"
+  },
+  "withered chica": {
+    "name": "Withered Chica",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A damaged older Chica with a wider jaw, exposed wiring, and missing suit sections.",
+    "behavior": "Approaches through the right air vent. The mask must be worn quickly when she appears at the end of the vent.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/d/dc/WitheredChica_Infobox.png"
+  },
+  "withered foxy": {
+    "name": "Withered Foxy",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A heavily deteriorated version of Foxy with tears in his suit and a more menacing frame.",
+    "behavior": "Rushes the office from the left hallway. The mask must be worn while he stands in the office or he will attack.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/2/21/WitheredFoxy_Infobox.png"
+  },
+  "shadow bonnie": {
+    "name": "Shadow Bonnie (RWQFSFASXC)",
+    "game": "Five Nights at Freddy's 2",
+    "description": "A shadowy black version of Toy Bonnie with glowing white eyes. Extremely rare and mysterious.",
+    "behavior": "Appears randomly in the office. Staring at him too long causes the game to crash, similar to Golden Freddy.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/3d/RWQFSFASXC_Jumpscare.gif"
+  },
+  "springtrap": {
+    "name": "Springtrap",
+    "game": "Five Nights at Freddy's 3",
+    "description": "A decayed Spring Bonnie suit containing the rotting corpse of William Afton. The only true animatronic in FNAF 3.",
+    "behavior": "Highly intelligent. Lured by audio and ventilation sounds. Sealing vents temporarily slows him but resets must be managed.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/5d/Springtrap.png"
+  },
+  "phantom freddy": {
+    "name": "Phantom Freddy",
+    "game": "Five Nights at Freddy's 3",
+    "description": "A charred, ghostly version of Freddy that appears as a hallucination in the office.",
+    "behavior": "Walks slowly across the office. Looking away before he fully appears prevents the jumpscare. A distraction from Springtrap.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/b/b9/Phantom_Fred_UCN.png"
+  },
+  "phantom chica": {
+    "name": "Phantom Chica",
+    "game": "Five Nights at Freddy's 3",
+    "description": "A burnt phantom version of Chica that appears on the arcade game camera.",
+    "behavior": "Appears when viewing the arcade monitor too long. Looking away before she lunges prevents the jumpscare.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/fb/Phantom_Chica_Jumpscare.gif"
+  },
+  "phantom foxy": {
+    "name": "Phantom Foxy",
+    "game": "Five Nights at Freddy's 3",
+    "description": "A charred hallucination of Foxy that crouches in the corner of the office.",
+    "behavior": "Appears in the corner of the maintenance panel. Clicking the panel without noticing him triggers the jumpscare.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/39/Phantom_Foxy_Jumpscare.gif"
+  },
+  "phantom mangle": {
+    "name": "Phantom Mangle",
+    "game": "Five Nights at Freddy's 3",
+    "description": "A burnt hallucination of Mangle that hangs from the ceiling of the office emitting radio static.",
+    "behavior": "Appears suddenly in the office. Her static disables the ventilation system if she is not dealt with in time.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/90/Phantom_Mangle_Jumpscare.gif"
+  },
+  "phantom puppet": {
+    "name": "Phantom Puppet",
+    "game": "Five Nights at Freddy's 3",
+    "description": "A dark, burnt version of The Puppet that appears when looking at a specific camera too long.",
+    "behavior": "Covers the player's view with her face. Blocks all interaction until the timer resets the scene.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/9e/Phantom_Puppet_Jumpscare.gif"
+  },
+  "phantom bb": {
+    "name": "Phantom Balloon Boy",
+    "game": "Five Nights at Freddy's 3",
+    "description": "A burnt, distorted hallucination of Balloon Boy with hollow black eyes.",
+    "behavior": "Appears in the left window. Staring at him too long triggers a jumpscare and disables the ventilation.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/36/Phantom_BB_Jumpscare.gif"
+  },
+  "nightmare freddy": {
+    "name": "Nightmare Freddy",
+    "game": "Five Nights at Freddy's 4",
+    "description": "A terrifying nightmare version of Freddy covered in sharp teeth and claws. Three mini Freddys called Freddles cling to him.",
+    "behavior": "Freddles appear on the bed — if ignored, Nightmare Freddy materializes and attacks. Check the bed frequently.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/61/Nightmare_Freddy.png"
+  },
+  "nightmare bonnie": {
+    "name": "Nightmare Bonnie",
+    "game": "Five Nights at Freddy's 4",
+    "description": "A massive, shadowy nightmare version of Bonnie with enormous teeth and glowing eyes.",
+    "behavior": "Approaches from the left door. A blinking eye or deep breathing outside the door means he is waiting. Shut the door immediately.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/0/08/Nightmare_Bonnie.png"
+  },
+  "nightmare chica": {
+    "name": "Nightmare Chica",
+    "game": "Five Nights at Freddy's 4",
+    "description": "A horrifying nightmare Chica with a massive beak full of sharp teeth and razor claws.",
+    "behavior": "Approaches from the right door. Her cupcake — Jack-O-Chica — is its own threat and can jumpscare independently.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/57/Nightmare_Chica.png"
+  },
+  "nightmare foxy": {
+    "name": "Nightmare Foxy",
+    "game": "Five Nights at Freddy's 4",
+    "description": "A terrifying version of Foxy with a gaping jaw and tattered appearance. Hides in the closet.",
+    "behavior": "Lurks in the closet. Keep checking and closing the closet or he will jump out. He can also approach from the hallways.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/32/Nightmare_Foxy.png"
+  },
+  "nightmare fredbear": {
+    "name": "Nightmare Fredbear",
+    "game": "Five Nights at Freddy's 4",
+    "description": "The golden nightmare — the most terrifying animatronic in FNAF 4. Represents the bite of '87.",
+    "behavior": "Appears on Night 5 and 6. Extremely aggressive. Can attack from any direction and rarely gives audio warnings.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/f5/Nightmare_Fredbear.png"
+  },
+  "nightmare": {
+    "name": "Nightmare",
+    "game": "Five Nights at Freddy's 4",
+    "description": "A pitch-black version of Nightmare Fredbear with white eyes and teeth. The final form of the nightmare.",
+    "behavior": "Replaces Nightmare Fredbear on Night 7 (20/20/20/20 mode). Identical behavior but darker and more terrifying.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/e/e1/Nightmare_Jumpscare.gif"
+  },
+  "plushtrap": {
+    "name": "Plushtrap",
+    "game": "Five Nights at Freddy's 4",
+    "description": "A small, cartoonish plush version of Springtrap. Stars in the 'Fun with Plushtrap' minigame.",
+    "behavior": "Must be stopped exactly on the X mark in the hallway using the flashlight. Too slow or too fast — he jumpscares you.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/96/Plushtrap_extras.png"
+  },
+  "nightmarionne": {
+    "name": "Nightmarionne",
+    "game": "Five Nights at Freddy's 4",
+    "description": "A nightmare version of The Puppet — a tall, shadowy marionette with a haunting grin.",
+    "behavior": "Appears in the Halloween edition of FNAF 4. Can appear at any location and must be responded to immediately.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/1/1f/Nightmarrionette.png"
+  },
+  "circus baby": {
+    "name": "Circus Baby",
+    "game": "Sister Location",
+    "description": "A tall, red-haired female animatronic with a clown aesthetic. The leader of the Funtime animatronics.",
+    "behavior": "Guides the player through the facility while secretly harboring a dark agenda. She contains the soul of Elizabeth Afton.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/8/85/Circus_Baby_Full_Body.png"
+  },
+  "funtime freddy": {
+    "name": "Funtime Freddy",
+    "game": "Sister Location",
+    "description": "A white and purple Freddy with a smaller animatronic called Bon-Bon on his right hand.",
+    "behavior": "Found in the Breaker Room. Must be kept in check using the hand unit. Bon-Bon can detach and act independently.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/2/2f/Funtime_Freddy_Full_Body.png"
+  },
+  "funtime foxy": {
+    "name": "Funtime Foxy",
+    "game": "Sister Location",
+    "description": "A white and pink fox animatronic in the Funtime Auditorium. Moves in complete darkness.",
+    "behavior": "Cannot be seen directly. The player must navigate the auditorium using a controlled flash. Looking too long triggers an attack.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/68/Funtime_Foxy_Full_Body.png"
+  },
+  "ballora": {
+    "name": "Ballora",
+    "game": "Sister Location",
+    "description": "A ballerina animatronic with her eyes almost always closed. Graceful yet deeply unsettling.",
+    "behavior": "Located in Ballora Gallery. Approaches when the player makes noise. Her music grows louder as she gets closer.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/f9/Ballora_Full_Body.png"
+  },
+  "ennard": {
+    "name": "Ennard",
+    "game": "Sister Location",
+    "description": "A twisted amalgamation of all the Funtime animatronics' endoskeletons, controlled by Circus Baby.",
+    "behavior": "Appears in the private room on the final night. Must be shocked repeatedly to keep him away until 6AM.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/3/3b/Ennard_Full_Body.png"
+  },
+  "scraptrap": {
+    "name": "Scraptrap",
+    "game": "Freddy Fazbear's Pizzeria Simulator",
+    "description": "William Afton again, this time torn free from the Spring Bonnie suit and barely held together.",
+    "behavior": "Lured into the pizzeria by audio lures. Extremely persistent — he always comes back no matter how many times he is driven away.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/fe/Scraptrap_Jumpscare.gif"
+  },
+  "scrap baby": {
+    "name": "Scrap Baby",
+    "game": "Freddy Fazbear's Pizzeria Simulator",
+    "description": "A heavily modified and scarred version of Circus Baby, rejected by Ennard and rebuilt with salvaged parts.",
+    "behavior": "Comes through the left side. Uses her arm claw as a weapon. Audio lures redirect her away from the office.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/1/13/Scrap_Baby_Jumpscare.gif"
+  },
+  "molten freddy": {
+    "name": "Molten Freddy",
+    "game": "Freddy Fazbear's Pizzeria Simulator",
+    "description": "The remains of Ennard after Baby was expelled — a melted tangle of wires and endoskeleton parts.",
+    "behavior": "Approaches from the right. Very fast and unpredictable. Requires quick use of audio lures to keep him at bay.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/c/cf/MoltenFreddyRender1.png"
+  },
+  "lefty": {
+    "name": "Lefty",
+    "game": "Freddy Fazbear's Pizzeria Simulator",
+    "description": "A mysterious black bear animatronic. A puppet is stored inside him — The Puppet's soul is being contained.",
+    "behavior": "Triggered by noise, heat, and activity. Very sensitive — keeping the environment calm is essential to slow him down.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/0/03/Lefty.png"
+  },
+  "glitchtrap": {
+    "name": "Glitchtrap",
+    "game": "Help Wanted",
+    "description": "A digital manifestation of William Afton trapped inside the FNAF VR game. Appears as a friendly Spring Bonnie costume.",
+    "behavior": "Does not jumpscare directly — instead he manipulates and merges with the player. Collecting all tapes is how he spreads.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/c/c1/GlitchtrapSWRender_(no_bg).png"
+  },
+  "glamrock freddy": {
+    "name": "Glamrock Freddy",
+    "game": "Security Breach",
+    "description": "A rock star version of Freddy with a blue color scheme. He is the player's ally throughout Security Breach.",
+    "behavior": "Protective of Gregory. He carries Gregory in his chest cavity and helps him navigate the Mega Pizza Plex.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/5e/Glamrock_Freddy_HW2_Gallery.png"
+  },
+  "glamrock chica": {
+    "name": "Glamrock Chica",
+    "game": "Security Breach",
+    "description": "A rock star Chica with a yellow and white look, wearing a leather jacket. Loves pizza and performing.",
+    "behavior": "Actively hunts Gregory. Upgraded versions become faster and more aggressive. Trash and the Gang sidequest involves her.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/6/65/Glamrock_Chica_HW2_Gallery.png"
+  },
+  "roxanne wolf": {
+    "name": "Roxanne Wolf",
+    "game": "Security Breach",
+    "description": "A green wolf animatronic with silver hair and a rock star attitude. Extremely competitive and vain.",
+    "behavior": "Fastest animatronic in Security Breach. Can detect Gregory nearby. Removing her eyes slows her down significantly.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/51/Roxanne_Wolf_HW2_Gallery.png"
+  },
+  "montgomery gator": {
+    "name": "Montgomery Gator",
+    "game": "Security Breach",
+    "description": "A purple alligator animatronic with sunglasses and a bass guitar. Known for his aggressive personality.",
+    "behavior": "Guards the Monty Golf area. Can break through barriers. Removing his claws weakens him.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/94/Monty_HW2_Gallery.png"
+  },
+  "vanny": {
+    "name": "Vanny",
+    "game": "Security Breach",
+    "description": "A mysterious human in a white bunny costume. A follower of Glitchtrap/William Afton.",
+    "behavior": "Stalks Gregory throughout the Mega Pizza Plex. Appears at high alert levels. Her true identity is hidden behind the mask.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/5/55/Vanny.png"
+  },
+  "sun moon": {
+    "name": "Sun / Moon (Daycare Attendant)",
+    "game": "Security Breach",
+    "description": "A jester-like animatronic with two personalities: Sun (friendly in light) and Moon (hostile in darkness).",
+    "behavior": "Sun is playful and kind. When the lights go out Moon takes over — aggressive and relentless until power is restored.",
+    "image": "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/f/f5/Sun_HW2_Gallery.png"
+  }
+}
